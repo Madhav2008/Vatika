@@ -1,4 +1,4 @@
-# vatika
+# Vatika
 
 A new Flutter project.
 
